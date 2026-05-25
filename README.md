@@ -1,4 +1,4 @@
-# In there i study these contents in C:
+# In this repository what I've learned about C language:
 - Variables and Types
 - Math operators
 - Logic operators
